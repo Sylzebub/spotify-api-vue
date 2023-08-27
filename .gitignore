@@ -2,8 +2,13 @@
 node_modules
 /dist
 
+creds.json
+access-token.sh
+artist-info.sh
+
 
 # local env files
+.env
 .env.local
 .env.*.local
 
